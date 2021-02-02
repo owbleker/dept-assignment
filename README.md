@@ -1,11 +1,23 @@
 # DEPT front-end development assignment
 
-This project was created by Olivier Bleker for DEPT Agency.
+This project was created by Olivier Bleker for DEPT Agency. It was made using React 17 and SASS. This was my first time really working with React, so it was a great learning experience and challenge that i thoroughly enjoyed!
 
-## Available Scripts
+## Running the application
 
-In the project directory, you can run:
+After downloading the zip file, first navigate to the folder in your terminal.
 
-### `npm start`
+# `cd [folder-path-here]`
+
+When inside the folder, you can run the development build using:
+# `npm start`
+
+Alternatively, you can create a production build using 
+
+# `npm run build`
+
+and then after it's done, serve it with
+
+# `serve -s build`
 
 
+Thank you for taking the time to review this! I had a lot of fun putting it together.
