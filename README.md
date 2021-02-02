@@ -2,6 +2,8 @@
 
 This project was created by Olivier Bleker for DEPT Agency. It was made using React 17 and SASS. This was my first time really working with React, so it was a great learning experience and challenge that i thoroughly enjoyed!
 
+To run this application on your local machine, please make sure you have NPM installed.
+
 ## Running the application
 
 After downloading the zip file, first navigate to the folder in your terminal.
