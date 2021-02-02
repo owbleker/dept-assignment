@@ -10,7 +10,10 @@ After downloading the zip file, first navigate to the folder in your terminal.
 
 ##### `cd [folder-path-here]`
 
-When inside the folder, you can run the development build using:
+When inside the folder, install all the dependencies using
+##### `npm install`
+
+Then you can run the development build using:
 ##### `npm start`
 
 Alternatively, you can create a production build using 
