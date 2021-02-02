@@ -42,10 +42,6 @@ class Main extends Component {
         }
     }
 
-    sortCases = cases => {
-        
-    }
-
     toggleMenu = () => {
         const menuShown = this.state.menuShown;
         this.setState({
