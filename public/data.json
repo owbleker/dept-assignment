@@ -1,0 +1,179 @@
+[
+  {
+    "cases": [
+      {
+        "title": "A summer island in the Netherlands",
+        "client": "Bol.com",
+        "image": "bolcom.png",
+        "type": "normal",
+        "work": "E-commerce"
+      },
+      {
+        "title": "Not some average banking website",
+        "client": "Kempen",
+        "image": "kempen.png",
+        "type": "normal",
+        "work": "UX / UI"
+      },
+      {
+        "title": "Beautiful design meets innovative technology",
+        "client": "Philips",
+        "image": "philips.png",
+        "type": "normal",
+        "work": "Design"
+      },
+      {
+        "title": "A 100 years of Mondriaan & De Stijl",
+        "client": "Gemeentemuseum",
+        "image": "gemeentemuseum.png",
+        "type": "normal"
+      },
+      {
+        "title": "Rethinking the entire online ecosystem",
+        "client": "Florensis",
+        "image": "florensis.png",
+        "type": "big"
+      },
+      {
+        "title": "Tapping into Ireland's unique gaming culture and bringen a fresh flavour to their xbox social media channels",
+        "client": "Microsoft",
+        "type": "small"
+      },
+      {
+        "title": "Integrating existing content into O'Neill's new e-commerce platform",
+        "client": "O'neill",
+        "type": "small"
+      },
+      {
+        "title": "Delivering clarity on a global scale",
+        "client": "Be lighting",
+        "image": "lightning.png",
+        "type": "normal"
+      },
+      {
+        "title": "Swipe to find your next holiday destination",
+        "client": "Tui",
+        "image": "tui.png",
+        "type": "normal"
+      },
+      {
+        "title": "Enhancing customer experience for personalised holiday planning using real time data",
+        "client": "Butlins",
+        "type": "small"
+      },
+      {
+        "title": "Predicting booking behavior for holidays with smart data, voice search and machine learning",
+        "client": "Vacanseselect",
+        "type": "small"
+      },
+      {
+        "title": "Rethinking the entire online ecosystem",
+        "client": "Florensis",
+        "image": "florensis.png",
+        "type": "big"
+      },
+      {
+        "title": "A campaign for the limited edition letter packs",
+        "client": "Chocomel",
+        "image": "chocomel.png",
+        "type": "normal"
+      },
+      {
+        "title": "Live like a champion with Jerome Boateng",
+        "client": "JBL",
+        "image": "jbl.png",
+        "type": "normal"
+      },
+      {
+        "title": "Innovative SEO and content strategy for Zalando",
+        "client": "Zalando",
+        "image": "zalando.png",
+        "type": "normal"
+      },
+      {
+        "title": "The search for the most influential book ever",
+        "client": "Koninklijke bibliotheek",
+        "image": "koninklijke-bibliotheek.png",
+        "type": "normal"
+      },
+      {
+        "title": "Delivering complex commerce solutions",
+        "client": "Liberty global",
+        "image": "liberty-global.png",
+        "type": "normal"
+      },
+      {
+        "title": "Swipe to find your next holiday destination",
+        "client": "Arla",
+        "image": "arla.png",
+        "type": "normal"
+      }
+    ],
+    "clients": [
+      {
+        "name": "Nivea",
+        "logo": "Nivea_logo_zwart.svg"
+      },
+      {
+        "name": "Mona",
+        "logo": "Mona_logo_zwart.svg"
+      },
+      {
+        "name": "Transavia",
+        "logo": "Transavia_logo_zwart.svg"
+      },
+      {
+        "name": "Zalando",
+        "logo": "Zalando_logo_zwart.svg"
+      },
+      {
+        "name": "TomTom",
+        "logo": "Tomtom_logo_zwart.svg"
+      },
+      {
+        "name": "Unilever",
+        "logo": "Unilever_logo_zwart.svg"
+      },
+      {
+        "name": "Adidas",
+        "logo": "Adidas_logo_zwart.svg"
+      },
+      {
+        "name": "Pathé",
+        "logo": "Pathe_logo_zwart.svg"
+      },
+      {
+        "name": "Abn-amro",
+        "logo": "ABN_logo_zwart.svg"
+      },
+      {
+        "name": "Triumph",
+        "logo": "Triumph_logo_zwart.svg"
+      },
+      {
+        "name": "Microsoft",
+        "logo": "Microsoft_logo_zwart.svg"
+      },
+      {
+        "name": "Oxxio",
+        "logo": "Oxxio_logo_zwart.svg"
+      },
+      {
+        "name": "Nationale Nederlanden",
+        "logo": "NN_logo_zwart.svg"
+      },
+      {
+        "name": "Ziggo",
+        "logo": "Ziggo_logo_zwart.svg"
+      },
+      {
+        "name": "Walibi",
+        "logo": "Walibi_logo_zwart.svg"
+      },
+      {
+        "name": "KLM",
+        "logo": "KLM_logo_zwart.svg"
+      }
+    ]
+  }
+]
